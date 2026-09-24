@@ -51,5 +51,5 @@ The paper investigates how to automatically transform **Natural Language require
 | **21. Missing Capabilities**              | Explicit future work includes **automated synthesis of auxiliary predicates and lemmas**, expanding the ACSL knowledge base with **library functions, logical language patterns, and annotated examples**, and further improving efficiency. For **frame conditions, termination conditions, assertions, and independent memory-safety specification generation**, the paper does not define separate research tasks or evaluations, so these are recorded as **Not explicitly addressed**.                                    |
 
 
-
+![NL2ACSL](./NL2ACSL.png)
 
