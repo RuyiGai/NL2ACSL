@@ -94,3 +94,5 @@ This paper addresses the limitations of traditional program specification genera
 | **20. Limitations**                       | Prompt sensitivity; possible GPT-3.5 data leakage; OpenJML limitations; limited representation of complex programs in SV-COMP; nested loops remain difficult; repeated verification adds computational cost.                                                  |
 | **21. Missing Capabilities**              | No systematic **frame-condition**, **termination**, or **arbitrary assertion** generation; memory safety is not an independent target; only Java/JML/OpenJML is evaluated.                                                                                    |
 
+
+![SpecGen](./SpecGen.png)
